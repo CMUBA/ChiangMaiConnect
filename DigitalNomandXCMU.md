@@ -2,7 +2,7 @@
 1.活动时间/Date time: 25th Jan, 2PM afternoon
 2.活动时长/Duration: 2-3 hours
 3.活动主题: DigitalNomand X CMU Communication
-4.海报画面/Poster（若有）:
+4.海报画面/Poster（若有）: <img src="https://github.com/CMUBA/ChiangMaiConnect/blob/main/poster1.png" />
 5.预计参与人数/Pepole：60/需要小川确认，目前预期60人左右
 6.活动需求（场地/设备/物料等）/Requirements：
 - 三到四个话筒，预计两位到三位老师到场，主持人一位，还有一个话题流动给现场关注提问沟通 / 4 microphones, for 2 speakers, 1 host and onsite audience keep one
